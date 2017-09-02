@@ -13,13 +13,13 @@ author:
   github_username:  aydarin
   linkedin_username:  aydar-mukhametzyanov-8a715b61
 
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
+# defaults:
+#   -
+#     scope:
+#       path: ''
+#       type: 'posts'
+#     values:
+#         layout: 'post'
 
 # Build settings
 destination: _site
